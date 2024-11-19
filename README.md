@@ -1,0 +1,1 @@
+Run FrontEnd\n npm start Run Backend npm start
